@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /assets/
+Disallow: /favicon.svg
+
+Sitemap: https://hibafertility.com/sitemap.xml
+Host: https://hibafertility.com
+
+# Crawl-delay: 1
